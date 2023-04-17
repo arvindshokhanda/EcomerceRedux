@@ -8,12 +8,12 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
+    
       <Routes>
-      <Route path = "/" element={<Home />} />
+      <Route path = "/" index  element={<Home />}/>
       <Route path="ProductDetail/:id" element={<ProductDetail />} />
       <Route path="AddProduct" element={<AddProduct />} />
       <Route path="Cart" element={<Cart />} />
-
 
       </Routes>
       
