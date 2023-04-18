@@ -10,7 +10,7 @@ function TextLinkExample() {
   return (
     <Navbar  bg="dark">
       <Container fluid>
-        <Navbar.Brand ><Link to = "/"style={{textDecoration:"none", color: 'white'}}>Shopping Cart</Link></Navbar.Brand>
+        <Navbar.Brand ><Link to = "/EcomerceRedux"style={{textDecoration:"none", color: 'white'}}>Shopping Cart</Link></Navbar.Brand>
         <Navbar.Brand><Link to = "/AddProduct" style={{textDecoration:"none", color: 'white'}}>Add Product <AddCircleOutlineIcon/></Link></Navbar.Brand>
         <Navbar.Toggle />
         <Badge badgeContent={getData.carts.length} color="primary">
