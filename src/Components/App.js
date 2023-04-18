@@ -10,10 +10,10 @@ function App() {
       <Navbar/>
     
       <Routes>
-      <Route path = "/"  element={<Home />}/>
-      <Route path="ProductDetail/:id" element={<ProductDetail />} />
-      <Route path="AddProduct" element={<AddProduct />} />
-      <Route path="Cart" element={<Cart />} />
+      <Route exact path = "/"  element={<Home />}/>
+      <Route exact path="ProductDetail/:id" element={<ProductDetail />} />
+      <Route exact path="AddProduct" element={<AddProduct />} />
+      <Route exact path="Cart" element={<Cart />} />
 
       </Routes>
       
