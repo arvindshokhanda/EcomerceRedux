@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/EcomerceRedux/static/css/main.39f039d4.css",
-    "main.js": "/EcomerceRedux/static/js/main.e8fc42ea.js",
+    "main.js": "/EcomerceRedux/static/js/main.48818fa2.js",
     "static/media/notification.svg?s3g3t9": "/EcomerceRedux/static/media/notification.5d0158671dd860c714c4.svg",
     "static/media/notification.eot": "/EcomerceRedux/static/media/notification.3657084dc0419605a91c.eot",
     "static/media/notification.woff?s3g3t9": "/EcomerceRedux/static/media/notification.c392cd33d9d9de730f9d.woff",
     "static/media/notification.ttf?s3g3t9": "/EcomerceRedux/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/EcomerceRedux/index.html",
     "main.39f039d4.css.map": "/EcomerceRedux/static/css/main.39f039d4.css.map",
-    "main.e8fc42ea.js.map": "/EcomerceRedux/static/js/main.e8fc42ea.js.map"
+    "main.48818fa2.js.map": "/EcomerceRedux/static/js/main.48818fa2.js.map"
   },
   "entrypoints": [
     "static/css/main.39f039d4.css",
-    "static/js/main.e8fc42ea.js"
+    "static/js/main.48818fa2.js"
   ]
 }
