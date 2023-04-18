@@ -31,7 +31,7 @@ function AddProduct() {
     };
     dispatch(AddProducts(item));
     alert("Product Added Successfully");
-    navigate("/");
+    navigate("/EcomerceRedux");
   };
   return (
     <div className="container mr-3 ml-3 mt-4">
