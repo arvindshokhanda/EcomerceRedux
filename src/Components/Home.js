@@ -83,8 +83,9 @@ function Home() {
       image: data.image,
     };
     dispatch(EditProducts(item));
-    NotificationManager.success("Product Edited Successfully");
     setIdToBeEdited("");
+    NotificationManager.success("Product Edited Successfully");
+   
   };
 
   //Cancel button function in case you don't want to Edit
